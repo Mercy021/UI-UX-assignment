@@ -1,0 +1,38 @@
+.column{
+    color: grey;
+    float: left;
+    width: 33.33%;
+}
+.row{
+    content: "";
+    display: table;
+    clear: both;
+}
+#quote{
+    quotes: "''" "''";
+    color: black;
+    font-size: xx-large;
+    font-weight: 1000;
+    font-style: italic;
+}
+#About{
+    color: grey;
+    text-align: center;
+    
+
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+.line{
+    background: purple;
+    height: 1.5px;
+}
+
+    
+
+
+   
+
+    
